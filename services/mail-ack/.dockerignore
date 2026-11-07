@@ -1,0 +1,6 @@
+tests
+deploy
+var
+**/__pycache__
+**/*.pyc
+RUNBOOK.md

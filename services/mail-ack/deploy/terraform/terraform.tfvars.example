@@ -1,0 +1,6 @@
+project_id              = ""
+region                  = "us-central1"
+image                   = ""
+confirm_billable_apply  = false
+create_firestore_database = true
+push_audience           = ""

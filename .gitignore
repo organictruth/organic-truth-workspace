@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local acknowledgement state and secret material. Never commit.
+services/mail-ack/var/
+*.sqlite3
+*.sqlite3-*
+**/gmail-token.json
+**/*-credentials.json
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+crash.log
+*.log
+.DS_Store

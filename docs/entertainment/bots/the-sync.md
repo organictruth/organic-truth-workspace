@@ -11,7 +11,7 @@ Places the finished master into DaVinci Resolve/Fairlight.
 The finished locked master, from Matthew, after three things are done:
 
 1. [The Master](./the-master.md) has delivered that master.
-2. [The Seal](./the-seal.md) has filed it and logged the service request number.
+2. [The Seal](./the-seal.md) has completed the eCO submission for it: the fee is paid, the final master is uploaded as the deposit, and the service request number is logged.
 3. Matthew has uploaded it to DistroKid and registered the song at BMI.
 
 ## Hands off

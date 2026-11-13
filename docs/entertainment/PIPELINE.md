@@ -50,9 +50,9 @@ That delivery is the final locked master. The Master hands it to The Seal. The s
 
 The quoted fee is $65. She confirms the current fee on copyright.gov before paying.
 
-When the same claimant owns both the composition and the sound recording, one filing on Form SR covers both. She logs every registration with the title, writer(s), claimant, date, service request number, confirmation or registration number, and status.
+When the same claimant owns both the composition and the sound recording, and both are in that master, one filing on Form SR covers both. The combined-filing conditions and the Author Created entries are on [her page](./bots/the-seal.md). She files only after Matthew has identified the human-authored contribution the claim covers. She logs every registration with the title, writer(s), claimant, date, service request number, confirmation or registration number, and status.
 
-She files and logs the service request number before Matthew uploads that master to DistroKid. When the Office later issues a confirmation or registration number, she adds it to the same log entry and updates the status.
+She completes the eCO submission before Matthew uploads that master to DistroKid: the fee is paid, the final locked master is uploaded as the deposit, and the service request number is logged. When the Office later issues a confirmation or registration number, she adds it to the same log entry and updates the status.
 
 Drafts, roughs, stems, and pre-masters are never registered. AI-generated material is disclosed and excluded as the Copyright Office requires.
 
@@ -60,7 +60,7 @@ Drafts, roughs, stems, and pre-masters are never registered. AI-generated materi
 
 Matthew uploads the final locked master and the artwork to DistroKid. He fills in the AI-disclosure and credit fields honestly. He can add the Beatport add-on for electronic tracks.
 
-He receives the locked master after The Seal has filed it, and he supplies the artwork. He hands off the completed DistroKid upload. The next step is BMI.
+He receives the locked master after The Seal has completed the eCO submission, and he supplies the artwork. He hands off the completed DistroKid upload. The next step is BMI.
 
 ## 4. BMI
 

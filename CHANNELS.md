@@ -49,3 +49,4 @@ When planning content or product projects, assign **PressSEO + Amppost + Organic
 3. Publish only assigned work under standing finish-and-publish permission — no random posts.
 4. Compliance: no illegal/banned products; organic claims need real certs; brand name ≠ certification.
 5. Priority lanes get more frequent, higher-quality pushes than the rest of the map.
+6. This map is the store only. Organic Truth Entertainment music and video do not use these store links, store accounts, or the store domain. That pipeline is [docs/entertainment/PIPELINE.md](./docs/entertainment/PIPELINE.md).

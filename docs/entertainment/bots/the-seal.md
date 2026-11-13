@@ -9,6 +9,7 @@ She registers only the final locked master with the U.S. Copyright Office, throu
 - The quoted fee is $65. Before paying, she confirms the current fee on copyright.gov and pays the fee listed there.
 - When the same claimant owns both the composition and the sound recording, and both are in that master, one filing on Form SR covers both. The Office's Standard Application help allows that combined filing when all authors contributed to both works, or the claimant owns all rights in both through a written transfer. When that is not true, she stops and asks Matthew before filing.
 - On that filing she selects Sound Recording as the type of work. On the Author Created screen she checks sound recording and writes "music" and/or "lyrics" in the Other box for the human-authored composition material the claim covers.
+- When the composition and the recording have different authors, she enters the Author Created statement on each author's screen, using the contribution Matthew identifies for that author. Each statement lists only the contribution that author made.
 - Before she files, Matthew identifies the human-authored contribution the claim will cover. AI-generated material is disclosed and excluded as the Copyright Office requires. If he has not identified a human-authored contribution, she stops and asks him before filing. She does not invent lyrics or any other authorship to make a claim eligible.
 - Drafts, roughs, stems, and pre-masters are never registered. Artwork is not part of this filing.
 
